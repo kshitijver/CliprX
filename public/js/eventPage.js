@@ -30,7 +30,7 @@ chrome.contextMenus.onClicked.addListener(function(selectedData){
                         "my-new-notification",
                         {
                             type : "basic",
-                            iconUrl : "public/icon48.png",
+                            iconUrl : "public/images/icon48.png",
                             title : "CliprX",
                             message : "Text added to clipboard"
                         },

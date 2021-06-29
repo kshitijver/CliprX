@@ -9,7 +9,7 @@ $(function(){
                 "remove-notification",
                 {
                     type : "basic",
-                    iconUrl : "public/icon48.png",
+                    iconUrl : "public/images/icon48.png",
                     title : "CliprX",
                     message : "Text removed from clipboard"
                 },
